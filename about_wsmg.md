@@ -58,3 +58,7 @@ This repository will^(1) have visual based documentations. Those are the first e
                     we_build_web.c
 
 ```
+
+## Intellectual Protection Schema
+
+The public repository version of this project is open-source. It is free to use under the MIT license and its intended purpose is for reference towards developers using the smg/wsmg ecosystem. 
